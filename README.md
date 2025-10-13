@@ -14,10 +14,10 @@
 - Storytelling through compelling data visualizations
 
 🛠️ My Tech Stack:
-- 💻 **Languages:** Python | R | SQL
+- 💻 **Languages:** EXCEL | POWER BI | MYSQL | PYTHON
 - 🧠 **Data Science & ML:** Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch
-- 📊 **Data Visualization:** Matplotlib | Seaborn | Plotly | Tableau | Power BI
-- 📁 **Tools & Databases:** Git | GitHub | Jupyter Notebooks | Docker | PostgreSQL | AWS
+- 📊 **Data Visualization:** Matplotlib | Seaborn | Plotly | Tableau 
+- 📁 **Tools & Databases:** Git | GitHub | Jupyter Notebooks | Docker 
 
 ---
 
